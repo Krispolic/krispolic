@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @krispolic
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Let me find some 
+
+My name is Kristian and I am Manual QA Engineer.
+
+# A few facts
+
+I’m currently learning
+
+# Some tools I use
 
 <!---
 krispolic/krispolic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
