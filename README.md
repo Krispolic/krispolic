@@ -4,8 +4,11 @@ My name is Kristian and I am Manual QA Engineer.
 
 # A few facts
 
-I’m currently learning
+🧪 I enjoy finding bugs, creating test cases, and making things work better
 
+📈 Always learning — currently exploring automation basics and improving my English
+
+🏌️ Fun facts: I love golf and Formula 1
 # Some tools I use
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
