@@ -68,6 +68,7 @@ I’m currently learning
 # <h3 align="left">Test Artifacts</h3>
 
 [Webshop Testing](https://github.com/Krispolic/web_testing) – exploratory and functional testing
+
 [API Testing](https://github.com/Krispolic/api_testing/blob/main/README.md) – REST and SOAP via Postman
 
 <!---
