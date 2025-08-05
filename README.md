@@ -68,6 +68,8 @@ I’m currently learning
 # <h3 align="left">Test Artifacts</h3>
 
 [Webshop Testing](https://github.com/Krispolic/web_testing) – exploratory and functional testing
+[API Testing](https://github.com/Krispolic/api_testing/blob/main/README.md) – REST and SOAP via Postman
+
 <!---
 krispolic/krispolic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
