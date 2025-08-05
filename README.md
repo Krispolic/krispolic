@@ -1,6 +1,6 @@
 # Let me find some 
 
-My name is Kristian and I am Manual QA Engineer.
+My name is Kristian and I am Manual QA Engineer. Here I share web testing portfolio items developed through personal projects.
 
 # A few facts
 
